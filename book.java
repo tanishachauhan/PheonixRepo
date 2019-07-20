@@ -8,6 +8,3 @@ private float price;
 public void setBookId(int bookId){
 this.bookId= boookId;
 }
-public int getBookId(){
-return boookId;
-}
